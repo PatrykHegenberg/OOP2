@@ -1,0 +1,3 @@
+[[language]]
+name = "java"
+language-server = { command = "jdtls", args = ["-data", "/home/pata/.cache/jdtls/VariablenTest"] }
